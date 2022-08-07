@@ -2,6 +2,15 @@
 
 Example of using Jaeger for tracing.
 
+In this example, I compare two approaches to calculating the Fibonacci number:
+
+- recursive
+- iterative
+
+An iterative approach is indeed faster than the recursive approach. By using jaeger, you will be able to see the reason.
+
+Although this is a very simple example, Jaeger's capability is more than that. Jaeger can do distributed tracing.
+
 # Prerequisites
 
 - Docker
